@@ -15,6 +15,7 @@ as HTMLInputElement
 - time to practice - full project
 - namespaces and modules
 - webpack and typescript
+  -  npm install --save-dev webpacl webpack-cli webpack-dev-server typescript ts-loader
 - Third-Party libraries and typesript
 - react-typescript
 - nodejs-express-typescript
